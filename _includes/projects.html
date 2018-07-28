@@ -1,8 +1,10 @@
 <div class="user-details">
   <h1> Cryptoparty Events </h1>
 </div>
+<!-- <h2 align="center">Upcoming Events</h2> -->
 <h3 align="center">
 {% for event in site.data.events %}
   <a href="{{ event.github }}">{{ event.date }}</a> | {{ event.topic }} <br />
 {% endfor %}
 </h3>
+<!-- <h2 align="center">Past Events</h2> -->
