@@ -1,11 +1,7 @@
-- date: August 20, 2018
-  topic: OTR & TOR
-  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/8_20_18.md
-
 - date: September 17, 2018
-  topic: Threat Modeling
+  topic: OTR & TOR
   github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/9_17_18.md
 
 # - date:
-#   topic:
-#   github:
+#   topic: Threat Modeling
+#   github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/threat_model.md
