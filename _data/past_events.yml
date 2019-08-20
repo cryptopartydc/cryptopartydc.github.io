@@ -1,3 +1,11 @@
+- date: August 7, 2019
+  topic: CryptoParty 101
+  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/crypto101.md
+
+- date: August 15, 2019
+  topic: Operational Security w/ RPCV/W
+  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/08_15_19.md
+  
 - date: June 11, 2019
   topic: WiFi (in)Security
   github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/06_11_19.md
