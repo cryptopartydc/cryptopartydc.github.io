@@ -1,10 +1,30 @@
-- date: August 7, 2019
-  topic: CryptoParty 101
-  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/crypto101.md
+- date: November 19, 2019
+  topic: TBD
+  github: https://cryptopartydc.github.io
+
+- date: October 10, 2019
+  topic: TBD
+  github: https://cryptopartydc.github.io
+  
+- date: September 21, 2019
+  topic: National Day of Civic Hacking
+  github: https://cryptopartydc.github.io
+  
+- date: September 11, 2019
+  topic: SIM Swapping
+  github: https://cryptopartydc.github.io
+
+- date: August 22, 2019
+  topic: 101 - Leave Locked Down
+  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/08_22_19.md
 
 - date: August 15, 2019
   topic: Operational Security w/ RPCV/W
   github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/08_15_19.md
+  
+- date: August 7, 2019
+  topic: CryptoParty 101
+  github: https://github.com/cryptopartydc/cryptoparty_dc/blob/master/crypto101.md
   
 - date: June 11, 2019
   topic: WiFi (in)Security
